@@ -94,6 +94,7 @@ body{
      display: flex;
      margin: 60px;
      gap: 40px;
+     transform: scale(0.9);
  }
 
  .text-box{
